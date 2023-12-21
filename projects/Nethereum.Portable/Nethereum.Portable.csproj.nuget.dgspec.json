@@ -1,0 +1,51 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/buqun/Documents/GitHub/demarket/Nethereum/projects/Nethereum.Portable/Nethereum.Portable.csproj": {}
+  },
+  "projects": {
+    "/Users/buqun/Documents/GitHub/demarket/Nethereum/projects/Nethereum.Portable/Nethereum.Portable.csproj": {
+      "title": "Nethereum.Portable",
+      "version": "4.1.1",
+      "description": "Nethereum.Portable is a NETPortable library including most of the supported libraries in a single package. Including Web3, Geth, ABI, Contracts, Signing, RPC, Hex, KeyStore, Util, ENS, Quorum, Besu and ERC20",
+      "authors": [
+        "Juan Blanco"
+      ],
+      "copyright": "Juan Blanco",
+      "packOptions": {
+        "tags": [
+          "Netherum",
+          "Ethereum",
+          "Blockchain",
+          "Crypto 2.0"
+        ],
+        "projectUrl": "http://www.nethereum.com",
+        "iconUrl": "https://raw.githubusercontent.com/Nethereum/Nethereum/master/logos/logo64x64.png",
+        "summary": "Nethereum.Portable is a NETPortable library including most of the supported libraries in a single package. Including Web3, Geth, ABI, Contracts, Signing, RPC, Hex, KeyStore, Util, ENS, Quorum, Besu and ERC20",
+        "licenseUrl": "https://raw.githubusercontent.com/Nethereum/Nethereum/master/LICENSE.md"
+      },
+      "restore": {
+        "projectUniqueName": "/Users/buqun/Documents/GitHub/demarket/Nethereum/projects/Nethereum.Portable/Nethereum.Portable.csproj",
+        "projectName": "Nethereum.Portable",
+        "projectPath": "/Users/buqun/Documents/GitHub/demarket/Nethereum/projects/Nethereum.Portable/Nethereum.Portable.csproj",
+        "projectJsonPath": "/Users/buqun/Documents/GitHub/demarket/Nethereum/projects/Nethereum.Portable/project.json",
+        "packagesPath": "/Users/buqun/.nuget/packages/",
+        "projectStyle": "ProjectJson",
+        "configFilePaths": [
+          "/Users/buqun/.nuget/NuGet/NuGet.Config"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        }
+      },
+      "dependencies": {
+        "Common.Logging.Core": "[3.4.1, )",
+        "Newtonsoft.Json": "[10.0.3, )",
+        "Portable.BouncyCastle": "[1.8.2, )"
+      },
+      "frameworks": {
+        "portable45-net45+win8+wpa81": {}
+      }
+    }
+  }
+}
